@@ -6,3 +6,8 @@
 05. git status
 06. git diff git.txt
 07. git diff --git a/readme.txt b/readme.txt
+08. git log #display commit trace from farthest to latest.
+09. git log --pretty=oneline
+10. git reset --hard HEAD^
+11. git reset --head 3628164
+12. git reflog
