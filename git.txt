@@ -11,3 +11,8 @@
 10. git reset --hard HEAD^
 11. git reset --head 3628164
 12. git reflog
+13. git checkout -- git.txt
+14. git rm git.txt
+15. git config --global user.name 
+16. git remote add origin https://github.com/william-xian/grow.git
+17. git push -u origin master
