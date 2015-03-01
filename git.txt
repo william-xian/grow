@@ -1,3 +1,8 @@
 
-1. mkdir  workspace;cd workspace
-2.git init
+01. mkdir  workspace;cd workspace
+02. git init
+03. git add git.txt
+04. git commit -m "wrote a Note about learning Git"
+05. git status
+06. git diff git.txt
+07. git diff --git a/readme.txt b/readme.txt
